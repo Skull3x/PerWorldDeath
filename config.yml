@@ -1,0 +1,10 @@
+---
+#If a player dies in this world, they will spawn in the default world.
+go-to-server-spawn-on-death: []
+#format:
+#
+#go-to-server-spawn-on-death:
+# -level1
+# -level2
+# -etc
+...

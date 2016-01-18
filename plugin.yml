@@ -1,0 +1,5 @@
+name: PerWorldDeath
+version: 1.0.0
+api: [1.0.0]
+main: _0110\PerWorldDeath\PerWorldDeath
+description: PerWorldDeath
